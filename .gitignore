@@ -1,0 +1,14 @@
+# Compiled class files
+*.class
+
+# IDE / editor files (do not upload per assignment instructions)
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+.DS_Store
+out/
+bin/
+target/
