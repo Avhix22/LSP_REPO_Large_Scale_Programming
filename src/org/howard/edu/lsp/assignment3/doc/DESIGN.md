@@ -92,7 +92,7 @@ This assignment was completed with the assistance of Claude (Claude Code),
 an AI coding assistant, which helped design the class breakdown described
 above and write/verify the code and this document.
 
-Transcript: **[link pending — add before submitting]**
+Transcript: [AI_TRANSCRIPT.md](./AI_TRANSCRIPT.md) (in this same directory)
 
 No other Internet resources were used beyond the Java standard library
 documentation.
