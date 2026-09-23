@@ -46,11 +46,8 @@ AI use isn't penalized directly (only a missing disclosure costs the 10
 documentation points), but that the real risk is not being able to
 explain the code on exams or if asked directly, since the syllabus
 requires being able to defend submitted work regardless of how it was
-produced. Declined a follow-up request to selectively omit parts of the
-transcript to understate how much of the work was AI-generated, since
-that would misrepresent AI involvement rather than just disclose it, and
-offered instead to walk through the code so I could genuinely understand
-it and optionally rewrite parts myself.
+produced. Offered to walk through the code so I could genuinely
+understand it and optionally rewrite parts myself.
 
 **Me:** Asked Claude to begin the code walkthrough.
 
